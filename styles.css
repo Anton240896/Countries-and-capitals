@@ -1,0 +1,39 @@
+img {
+    width: 100%;
+}
+
+option {
+    border: none;
+    color: white;
+    cursor: pointer;
+    background-color: black;
+}
+
+body {
+    background-image: radial-gradient(circle, #010102 20%, rgb(23, 23, 27) 70%);
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.shsCntr {
+    color: white;
+}
+
+.euroCountry {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+select {
+    color: white;
+    cursor: pointer;
+    border: none;
+    background-image: radial-gradient(circle, #010102 20%, rgb(23, 23, 27) 70%);
+}
+
+select:focus:hover {
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
