@@ -136,6 +136,9 @@ function displayCapital() {
     capitalImage.src = "https://static.independent.co.uk/2023/07/12/14/iStock-1124556360.jpg";
     break;
 
+    case "romania":
+    capitalImage.src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bucharest_city_center.jpg/1200px-Bucharest_city_center.jpg";
+    break;
 
     case "england":
     capitalImage.src = "https://upload.wikimedia.org/wikipedia/commons/6/67/London_Skyline_%28125508655%29.jpeg";
