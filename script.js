@@ -176,7 +176,7 @@ function displayCapital() {
       break;
 
     case "turkey":
-    capitalImage.src = "https://lowcost.ua/wp-content/uploads/2018/09/istanbul_1.jpg";
+    capitalImage.src = "https://cdn.levelimmigration.com/level/blog/16560305563715-234.jpg";
     break;
 
     default:
