@@ -24,6 +24,10 @@ body {
     display: flex;
     gap: 20px;
     justify-content: center;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+    background-image: radial-gradient(circle, #010102 20%, rgb(23, 23, 27) 70%);
 }
 
 select {
